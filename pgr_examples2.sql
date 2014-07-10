@@ -12,7 +12,6 @@
 --Author: M. Wieland
 --Last modified: 9.7.14
 ------------------------------------------------------------------------------------------------------------------------------
---TODO: test extensively before using it
 
 ------------------------------------------------------------------------------------------------------
 --1. add weighted cost attribute to streetnetwork (cost=length*weight*sqrt(count of previous visits))
